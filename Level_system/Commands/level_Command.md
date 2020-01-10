@@ -1,0 +1,1 @@
+{"name":"Level","permissions":"NONE","restriction":"1","actions":[{"member":"1","varName":"","dataName":"level","defaultVal":"1","storage":"1","varName2":"myLevel","name":"Store Member Data"},{"channel":"0","varName":"","message":"You are level ${tempVars(\"myLevel\")}!","storage":"0","varName2":"","name":"Send Message"}]}
